@@ -1,0 +1,32 @@
+DATASYNC:
+=========
+SMB - Server Message Block (standard storage protocol)
+
+NFS - Network File System (standard storage protocol)
+
+HDFS - Hadoop Distributed File System
+
+HPC - High-Performance Computing
+
+ENI - Elastic Network Interfaces
+
+NTFS DACL - Discretionary Access Control List
+
+NTFS SACL - System Access Control List
+
+ORGANIZATIONS:
+==============
+OU - Organization Unit
+
+S3:
+===
+IA - Infrequent Access
+
+GENERAL:
+========
+MSP - Managed Service Providers
+
+KVM - Kernal-based Virtual Machine
+
+
+
